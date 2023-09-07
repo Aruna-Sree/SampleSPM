@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "camobileappanalytics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CA-Application-Performance-Management/CAMobileAppAnalytics.git",
+      "state" : {
+        "branch" : "spm",
+        "revision" : "c7de4c682957f0f62643eeb3108f71f840f6b7a9"
+      }
+    }
+  ],
+  "version" : 2
+}
